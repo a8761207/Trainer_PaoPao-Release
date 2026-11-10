@@ -2,6 +2,10 @@
 
 《泡泡餐廳物語》的輔助工具：金錢、背包與倉庫數量、餐廳打掃與遠距互動、移動、釣魚點與座標傳送、在場玩家等。
 
+## 預覽
+
+<img src="images/preview.png" alt="泡泡餐廳物語 輔助器 預覽" width="720">
+
 ## 下載
 
 到 **[Releases（最新版）](https://github.com/a8761207/Trainer_PaoPao-Release/releases/latest)** 下載 `Trainer_PaoPao-v版本.exe`，直接執行即可，不用安裝。
